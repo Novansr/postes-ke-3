@@ -1,7 +1,8 @@
 # postes-ke-3
 Diskon cafe dan program akun sederhana
 
-No1
+Nomor 1
+
 def total():
     print ("1. es teh")
     print ("2. teh hangat")
